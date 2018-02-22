@@ -1,0 +1,31 @@
+body {
+  margin: 40;
+  padding: 40;
+  color: white;
+  background-color: black;
+}
+h1
+{
+  font-size:80px;
+  font-family: 'nanum Pen script',cursive;
+  text-emphasis-color: green;
+}
+p{
+  font-size: 20px;
+  font-family: 'shadows into light',cursive;
+}
+h2
+{
+  font-size: 40px;
+  font-family: 'nanum pen script',cursive;
+}
+h3
+{
+ font-size: 40px;
+ font-family: 'nanum pen script',cursive;
+}
+h4
+{
+  font-size: 40px;
+  font-family: 'nanum pen script',cursive;
+}

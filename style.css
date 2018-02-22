@@ -7,7 +7,7 @@ body {
 h1
 {
   font-size:80px;
-  font-family: 'nanum Pen script',cursive;
+  font-family: 'nanum Pen script':cursive;
   text-emphasis-color: green;
 }
 p{
